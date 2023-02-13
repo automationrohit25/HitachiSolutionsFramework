@@ -1,8 +1,16 @@
 HitachiSolutionsFramework
 
-This Automation Framwork built using Selenium,Java, Maven, TestNG, Rest Assured.
+In this repository, I have created a framework for testing the web application and API.
 
-UI test cases have been automated using Selenium.
-API test case has been automated using Rest Assured.
+Tech Stack used :
 
-----------------------------------------------------------------------------
+Java
+Selenium
+Maven
+TestNG
+Rest Assured
+
+I have used the TestNg Framework for setting up this Automation Suite. Implemented the POM(Page Object Model) design pattern in the framework. 
+For reporting purpose, I have used TestNG Reports.
+
+Please reach out to rohit25.infy@gmail.com for any PR or improvements
